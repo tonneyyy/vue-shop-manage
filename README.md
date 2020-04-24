@@ -1,4 +1,5 @@
 # vue-shop-manage
+#这是一个vue制作的商城后台
 
 ## Project setup
 ```
